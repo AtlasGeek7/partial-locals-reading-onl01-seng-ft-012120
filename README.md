@@ -1,4 +1,4 @@
-learn# Partials with Locals
+# Partials with Locals
 
 ## Objectives
 
